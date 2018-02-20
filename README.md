@@ -1,5 +1,7 @@
 # About this repository
 
+This repository contains code, [codenotes](https://github.com/rbntimes/frontend/blob/master/CODENOTES.md) and [best practices](https://github.com/rbntimes/frontend#best-practices) found in the lectures.
+
 # Best practices
 
 #### Best practice lecture 3
