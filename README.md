@@ -37,6 +37,15 @@ const person = createPerson({
 });
 ```
 
+###### This might even be better
+
+```javascript
+function createPerson({ firstName, lastName, height, weight, gender }) {
+  // extract arguments
+  // function body
+}
+```
+
 # Image Gallery
 
 # Async API Data
